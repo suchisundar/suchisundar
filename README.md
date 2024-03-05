@@ -8,6 +8,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Flask Icon" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"/>](https://flask.palletsprojects.com/en/2.0.x/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+[<img height="48px" width="48px" alt="Python Icon" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://www.python.org/)
 
 ### Tools:
 
