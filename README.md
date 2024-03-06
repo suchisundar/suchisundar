@@ -6,7 +6,6 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 [<img height="48px" width="48px" alt="Python Icon" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://www.python.org/)
 [<img height="48px" width="48px" alt="SQL Icon" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://en.wikipedia.org/wiki/SQL)
 
