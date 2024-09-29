@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋+I'm+Suchi)](https://git.io/typing-svg)
 
-
+I'm a healthcare/life sciences professional with experience helping startups and large organizations bring products to market, articulate their value through clinical and economic evidence, and navigate the changing policy landscape.
+🌱 I’m currently learning Node, React and Express.
+Check out my projects! 
 
 ### Languages:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
