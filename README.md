@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋+I'm+Suchi)](https://git.io/typing-svg)
 
-I'm a healthcare/life sciences professional with experience helping startups and large organizations bring products to market, articulate their value through clinical and economic evidence, and navigate the changing policy landscape.
+Results-driven strategy and analytics professional with experience helping organizations—from startups to large enterprises—bring products to market, define value propositions, and navigate evolving industry landscapes. Proven ability to leverage data and technology to streamline processes, drive efficiency, and create impactful visualizations that inform decision-making in areas such as sales operations, customer engagement, and policy adoption.
 
 🌱 I’m currently learning Node, React and Express.
 Check out my projects! 
