@@ -4,8 +4,6 @@ I’m an MBA student at UCLA Anderson with a background in public health, life s
 
 I’m drawn to roles at the intersection of strategy, design, and data—where understanding users, asking the right questions, and turning insight into action actually moves the needle. To gain a better insight on how to create the right products and find the balance between intuitive design and practicality particularly in regulated spaces, I’ve completed intensive bootcamps in UX design and software engineering, and I enjoy applying these skills to real-world problems, from investment analysis to product concepts and consumer experiences.
 
-I’m especially interested in how analytics and technology can make businesses more human—whether in healthcare, consumer brands, or emerging digital products.
-
 🌱 I’m currently learning Node, React and Express.
 Check out my projects! 
 
