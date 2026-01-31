@@ -2,7 +2,7 @@
 
 I’m an MBA student at UCLA Anderson with a background in public health, life sciences, and commercial strategy, and a growing focus on product, analytics, and customer-centric growth. Before business school, I worked in biotech and health tech across market access, reimbursement strategy, and product marketing, supporting global product launches and building dashboards that translated complex policy and market dynamics into clear business decisions.
 
-I’m drawn to roles at the intersection of strategy, design, and data—where understanding users, asking the right questions, and turning insight into action actually moves the needle. To gain a better insight on how to create the right products and find the balance between intuitive design and practicality particularly in regulated spaces, I’ve completed intensive bootcamps in UX design and software engineering, and I enjoy applying these skills to real-world problems, from investment analysis to product concepts and consumer experiences.
+I’m drawn to roles at the intersection of strategy, design, and data where understanding users, asking the right questions, and turning insight into action actually moves the needle. To gain a better insight on how to create the right products and find the balance between intuitive design and practicality particularly in regulated spaces, I’ve completed intensive bootcamps in UX design and software engineering, and I enjoy applying these skills to real-world problems, from investment analysis to product concepts and consumer experiences.
 
 🌱 I’m currently learning Node, React and Express.
 Check out my projects! 
