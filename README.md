@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋+I'm+Suchi)](https://git.io/typing-svg)
 
-Results-driven strategy and analytics professional with experience helping organizations—from startups to large enterprises—bring products to market, define value propositions, and navigate evolving industry landscapes. Proven ability to leverage data and technology to streamline processes, drive efficiency, and create impactful visualizations that inform decision-making in areas such as sales operations, customer engagement, and policy adoption.
+I’m an MBA student at UCLA Anderson with a background in public health, life sciences, and commercial strategy, and a growing focus on product, analytics, and customer-centric growth. Before business school, I worked in biotech and health tech across market access, reimbursement strategy, and product marketing, supporting global product launches and building dashboards that translated complex policy and market dynamics into clear business decisions.
+
+I’m drawn to roles at the intersection of strategy, design, and data—where understanding users, asking the right questions, and turning insight into action actually moves the needle. To gain a better insight on how to create the right products and find the balance between intuitive design and practicality particularly in regulated spaces, I’ve completed intensive bootcamps in UX design and software engineering, and I enjoy applying these skills to real-world problems, from investment analysis to product concepts and consumer experiences.
+
+I’m especially interested in how analytics and technology can make businesses more human—whether in healthcare, consumer brands, or emerging digital products.
 
 🌱 I’m currently learning Node, React and Express.
 Check out my projects! 
